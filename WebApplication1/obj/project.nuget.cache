@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eo8QFJVASq1lbKYDC2oNavtAw9hdeUhE4BDXexO0B3QakFeoBfKx/B97dz/XW90GnE5g5s1ojOZqXLFwY7h6jA==",
+  "success": true,
+  "projectFilePath": "/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/viku/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "/Users/viku/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/viku/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/viku/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/viku/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/viku/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/viku/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

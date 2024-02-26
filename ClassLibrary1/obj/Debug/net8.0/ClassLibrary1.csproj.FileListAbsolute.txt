@@ -1,0 +1,11 @@
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.deps.json
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.dll
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/bin/Debug/net8.0/ClassLibrary1.pdb
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.AssemblyInfo.cs
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.dll
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/refint/ClassLibrary1.dll
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ClassLibrary1.pdb
+/Users/viku/Dev_Projects/CSharp_Projects/app-01/app-01-01/ClassLibrary1/obj/Debug/net8.0/ref/ClassLibrary1.dll
